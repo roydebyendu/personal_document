@@ -1,0 +1,317 @@
+the first 8-digits of your Demat account number is your DP ID where the last 8-digits of your Demat account number is the customer ID of the account holder.
+ 
+Demat A/C : 63878017
+Trading A/C : 4221622
+ 
+Nomination :
+https://hdfcbk.co/a/WAdOg85p
+DP ID : IN301549
+Client Id:  63878017
+ 
+https://www.incometax.gov.in/iec/foportal/
+ 
+ 
+Investment Services Account
+InvestNow
+ 
+Demat account:
+ 
+HDFC:
+Contact person: 9748032450 Jayanti   77774
+Contact person: 9769441140 from Mumbai
+ 
+Axis Mutual Fund:
+Contact person: +91 22 4511 7684 M
+ 
+ 
+A “bull” by definition is an investor who buys shares because they believe the market is going to rise; whereas a “bear” will sell shares as they believe the market is going to turn negative.
+ 
+ 
+The BSE SENSEX (also known as the S&P Bombay Stock Exchange Sensitive Index or simply the SENSEX) is a free-float market-weighted stock market index of 30 well-established and financially sound companies listed on the Bombay Stock Exchange.
+ 
+free-float market-weighted -> A capitalization-weighted index, also called a market-value-weighted index is a stock market index whose components are weighted according to the total market value of their outstanding shares. Every day an individual stock's price changes and thereby changes a stock index's value. The impact that individual stock's price change has on the index is proportional to the company's overall market value, in a capitalization-weighted index. In other types of indices, different ratios are used.
+ 
+stock market index -> In finance, a stock index, or stock market index, is an index that measures a stock market, or a subset of the stock market, that helps investors compare current price levels with past prices to calculate market performance. It is computed from the prices of selected stocks.
+ 
+ 
+Broadly, any mutual fund will either invest in equities, debt or a mix of both. Further, they can be open-ended or close-ended mutual fund schemes.
+ 
+Open-ended funds ->  In an open-ended mutual fund, an investor can invest or enter and redeem or exit at any point of time. It does not have a fixed maturity period.
+ 
+Close-ended funds ->  Close-ended mutual funds have a fixed maturity date. An investor can only invest or enter in these type of schemes during the initial period known as the New Fund Offer or NFO period. His/her investment will automatically be redeemed on the maturity date. They are listed on stock exchange(s).
+ 
+1. Equity or growth schemes
+              Equity funds can be further divided into three categories:
+             
+              > Sector-specific funds: These are mutual funds that invest in a specific sector.
+                             > These can be sectors like infrastructure, banking, mining, etc. or
+                             > specific segments like mid-cap, small-cap or large-cap segments.
+                                           They are suitable for investors having a high risk appetite and have the potential to give high returns.
+             
+              > Index funds: Index funds are ideal for investors who want to invest in equity mutual funds but at the same time don't want to               depend on the fund manager. An index mutual fund follows the same strategy as the index it is based on.         
+              For example, if an index fund follows the BSE Index as the replicating index and if it has a 20% weightage in let's say Stock A, then the index fund will also invest 20% of its assets in Stock A.
+             
+              > Tax saving funds: These funds offer tax benefits to investors. They invest in equities and are also called Equity Linked Saving Schemes (ELSS).
+ 
+2. Money market funds or liquid funds:
+              These funds invest in short-term debt instruments, looking to give a reasonable return to investors over a short period of time. These funds are suitable for investors with a low risk appetite who are looking at parking their surplus funds over a short-term. These are an alternative to putting money in a savings bank account.
+             
+3. Fixed income or debt mutual funds:
+              These funds invest a majority of the money in debt - fixed income i.e. fixed coupon bearing instruments like government securities, bonds, debentures, etc. They have a low-risk-low-return outlook and are ideal for investors with a low risk appetite looking at generating a steady income. However, they are subject to credit risk.
+ 
+4. Balanced funds:
+              As the name suggests, these are mutual fund schemes that divide their investments between equity and debt.
+             
+What is Market Capitalization?
+              Market Capitalization, in simple words, is the market value of the company’s outstanding shares. It is not the share price but the value of the share.
+ 
+              The share price of Company A is Rs.25 and that of Company B is Rs.60. Which company has more value? Which company will be more stable?
+ 
+              The answer to this question is not easy since the information provided is limited.      
+ 
+              Now, if we say that Company A has 500,000 shares in the market and Company B has 100,000 shares in the market, then which company has more value?
+ 
+              This makes more sense now. So, the total value of the outstanding shares of both companies is:
+ 
+              Company A – 500,000 x 25 = Rs.1.25 crore
+              Company B – 100,000 x 60 = Rs.60 lakh
+              Hence, Company A has a higher market value than Company B. This is market capitalization or market cap. The formula to calculate it is:
+ 
+              Number of outstanding shares x share price
+ 
+              Based on the market cap, companies are classified as large-cap companies, mid-cap companies, and small-cap companies. In order to ensure that equity schemes follow uniform norms for defining large, mid, and small caps, the Securities and Exchanges Board of India (SEBI) has defined them as follows:
+ 
+              > Large-cap companies – 1st to 100th company in terms of market capitalization
+              > Mid-cap companies – 101st to 250th company in terms of market capitalization
+              > Small-cap companies – 251st company onwards in terms of market capitalization
+             
+              It is important to note that since the share price keeps fluctuating, the market cap of a company keeps changing too. Also, when a company issues more shares to the public, it’s market capitalization increases. On the other hand, in the case of a buyback, the market cap dips.
+ 
+What are Large-Cap, Mid-Cap, and Small-Cap Funds?
+ 
+              Large Cap funds are open-ended, equity funds which invest at least 80% of their total assets in large-cap stocks. Large-cap companies are trustworthy and strong companies with an excellent track record. They are known to have generated wealth for their investors.
+ 
+              Mid-cap funds are open-ended, equity funds which invest around 65% of their total assets in equity and equity-related instruments of mid-cap companies. These companies have been around for quite some time and have a good track record too. Some of these will soon transform into large-cap companies. This makes the mid-cap segment an interesting one for growth opportunities with controlled risks.
+ 
+              Small-cap funds are open-ended equity funds which invest a minimum of 65% of their total assets in small-cap stocks. These are the smaller companies or the new entrants in the market. These funds have a high potential for growth but also carry a high amount of risk. They are usually recommended for investors with higher risk tolerance.
+ 
+ 
+ 
+MutualFunds:
+1.           Equity funds
+2.           Debt funds
+3.           Floating rate debt
+4.           Balanced funds
+ 
+Equity Funds
+              Size of Companies -
+                             - Large Cap
+                             - Mid Cap
+                             - Small Cap
+              Investment Approach
+                             - Value Fund    
+                             - Growth Fund
+ 
+ 
+Mutual Fund Fees ->
+              - annual operating fees (advisory or management fee and its administrative costs)
+              - shareholder fees (sales charges, commissions, and redemption fees)
+                             - front-end load (during purchase)
+                             - back-end load              (during sell)
+              - management fees and ongoing fees for distributions, also known as 12b-1 fees
+ 
+ 
+ 
+ 
+The key difference between a Demat and a Trading account is that a Demat account is used to hold your securities such as your share certificates and other documents in electronic format whereas a Trading account is used for buying and selling these securities in the stock market.
+ 
+How Trading and Demat account interface when you buy shares?
+ 
+To understand what a Trading and a Demat account is from the right perspective, let us look at what happens when you place an order to buy shares.
+Let us say, you place an order to buy 100 shares of X Company at Rs. 910, and the order is confirmed. Then you will have to pre-fund your trading account to the extent of Rs. 91,000 latest by 11 AM next morning. On T+2 day, the shares are automatically credited to your Demat account. If you are an online trader, this entire process is totally seamless.
+ 
+How Trading and Demat accounts interface when you sell shares?
+ 
+Let us assume that you sold 500 shares of Stock ‘X’ at Rs.420. The trading engine will have to first satisfy itself that you have balance of shares in your Demat account. Once you have the required balance in your Demat account, the 500 shares will be debited to your Demat account on T+1 day and the amount of Rs 2,10,000 lakhs are credited to your bank account on T+2 day. In case of offline account, you need to provide the Debit Instruction Slip (DIS) to your broker on the same day. This problem is solved if in case you have an online Demat account and you have given Power of Attorney to your broker. In that case, the entire process is seamless.
+ 
+https://www.investopedia.com/terms/m/mutualfund.asp#:~:text=A%20mutual%20fund%20is%20a,market%20instruments%2C%20and%20other%20assets.
+ 
+1. Stock -> Shares of company
+ 
+2. bonds -> A bond is simply a loan taken out by a company. Instead of going to a bank, the company gets the money from investors who buy its bonds
+ 
+3. Money market instruments -> Money market instruments are short-term financing instruments aiming to increase the financial liquidity of businesses. The main characteristic of these kinds of securities is that they can be converted to cash with ease, thereby preserving the cash requirements of an investor.
+ 
+4. Dividend -> A dividend is the distribution of some of a company's earnings to a class of its shareholders, as determined by the company's board of directors. Common shareholders of dividend-paying companies are typically eligible as long as they own the stock before the ex-dividend date.("Ex-Dividend Dates: When Are You Entitled to Stock and Cash Dividends.”)
+Dividends may be paid out as cash or in the form of additional stock.
+ 
+5. Distribution -> The word "distribution" has several meanings in the financial world, most of them pertaining to the payment of assets from a fund, account, or individual security to an investor or beneficiary.
+ 
+6. Market Cap -> it is calculated by multiplying the total number of a company's outstanding shares by the current market price of one share.
+ 
+7. Value Fund -> A value fund is a fund that follows a value investing strategy and seeks to invest in stocks that are deemed to be undervalued in price based on fundamental characteristics
+What are Undervalued Stocks?
+Undervalued stocks or securities are equity shares that have a market value lower than their intrinsic value.
+ 
+What is Value Fund?
+In order to understand Value Mutual Fund, let’s first talk about value investing strategy.
+ 
+When an investor (or a fund manager) adopts a value investing strategy, he looks for stocks which are undervalued and trade for less than their respective intrinsic values. There are many companies in the market whose stock price is not the true indicator of their worth. They are intrinsically more valuable and have a lot of potentials to grow. The intrinsic value of a company is calculated by considering its financials, business model, competitive position, management team, etc. If the company’s market value is less than its intrinsic value, then it is considered to have ‘value’.
+ 
+Therefore, a Value Fund is an equity fund which invests in stocks of companies having ‘value’.
+ 
+ 
+8. Growth Fund -> A growth fund is a diversified portfolio of stocks that has capital appreciation as its primary goal, with little or no dividend payouts.
+ 
+9. Direct ->  A direct mutual fund plan is what you buy directly from the mutual fund house.
+ 
+10 Regular Plan ->  A regular plan is what you buy from an advisor/broker/distributor.
+              In case of a regular plan, the mutual fund company pays commission to the intermediary
+ 
+11. IDCW -> Income Distribution cum Capital Withdrawal
+ 
+12. Compound annual growth rate, or CAGR, is the mean annual growth rate of an investment over a specified period of time longer than one year.
+ 
+13. AMC -> Asset Management Company
+              AUM -> Asset Under Management
+             
+             
+14. IPO -> An Initial Public Offering or IPO is when equity shares of a company are offered to the public on the open market i.e. the stock market for the first time. The company going public raises capital and funds by trading IPO shares. During the IPO trading, a fraction of shares are reserved for different types of investors including Individual investors, Qualified Institutional Buyers and High Net-worth Individuals. The IPO is either a Fixed Price Issue or Book Built Issue.
+ 
+15. Expense ratios -> indicate how much the fund charges in terms of percentage annually to manage your investment portfolio. If you invest Rs. 20,000 in a fund which has an expense ratio of 2%, then it means that you need to pay Rs. 400 to the fund house to manage your money.
+ 
+16. Trailing Returns -> Trailing returns are the returns generated over a given period. It can be the year to date (YTD), one year, three years, and so on. These are also called point to point returns. Trailing returns are the most relevant measures to evaluate the performance for a mutual fund.
+ 
+17. Redemption -> Mutual fund redemption is a way to make a graceful exit. If you feel like exiting the mutual fund scheme, then you can redeem the units you hold.
+ 
+You can withdraw your investments periodically unless they are under the lock-in period. You can withdraw via SWP (systematic withdrawal plan) route by redeeming a fixed amount at a given frequency. You may withdraw a lumpsum amount via a redemption request as and when required.
+ 
+              Mutual fund redemption : is how the investors sell their fund units. However, if there is an exit load, then the investors necessarily pay it on redeeming their units. When investors redeem their units, they earn taxable capital gains. The taxability of capital gains depends on the type of fund and the period of holding. Here, investors should mandatorily consider all the expenses that they would incur on redeeming their units.
+             
+             
+              How to redeem mutual funds : 
+                             > Directly through AMC : If you have invested in a mutual fund directly with the asset management company (AMC), then you can redeem using their online portal. You can choose to sell some units or all, as per your requirement. One can also redeem units offline by visiting the AMC office. After your request is processed, you will receive the redemption amount via NEFT or through a cheque sent to the registered address. Usually, the online mode is much faster, in which the amount gets credited in a day or two.
+                            
+                             > Through a trading or Demat account : If you had bought the mutual funds through Demat account or trading account, then you will have to redeem your units through the same account. Once the process is completed, an electronic payout (NEFT or IMPS) against the redemption request will be made. The amount will be credited to the same bank account registered with the Demat account.
+ 
+                             > Offline through an agent or distributor : Central services such as CAMS and Karvy also provide the facility of redeeming mutual funds bought from several AMCs. Download a redemption form, and submit the duly filled and signed form at the nearest CAMS office.
+ 
+ 
+18. Earnings per share (EPS) -> is a figure describing a public company's profit per outstanding share of stock, calculated on a quarterly or annual basis. EPS is arrived at by taking a company's quarterly or annual net income and dividing by the number of its shares of stock outstanding
+ 
+ 
+19. P/E Ratio -> The price-earnings ratio (P/E Ratio) is the relation between a company's share price and earnings per share (EPS). It denotes what the market is willing to pay for a company's profits.
+ 
+20. Stop-loss -> A stop-loss order is an order placed with a broker to buy or sell a specific stock once the stock reaches a certain price. A stop-loss is designed to limit an investor's loss on a security position. For example, setting a stop-loss order for 10% below the price at which you bought the stock will limit your loss to 10%.
+ 
+21. Upside -> Upside refers to the potential increase in value, measured in monetary or percentage terms, of an investment. ... A higher upside means that the stock has more value than is currently reflected in the stock price.
+ 
+Upside risk measures the extent to which the value of a stock or other investment might go up beyond expected levels. It's when you stand to get an outcome better than the benchmark against which it's being measured, such as the FTSE 100 index.
+ 
+22. Downside risk -> Downside risk is an estimation of a security's potential loss in value if market conditions precipitate a decline in that security's price. Downside risk is a general term for the risk of a loss in an investment, as opposed to the symmetrical likelihood of a loss or gain.
+ 
+23. Resistance -> A resistance level represents a price point that an asset has had trouble exceeding in the time period being considered. Resistance can visualized using different technical indicators rather than simply drawing a line connecting highs. Applying trendlines to a chart can provide a more dynamic view of resistance.
+ 
+Resistance in the stock market refers to a phenomenon where selling at a certain price level prevents a stock from exceeding that price. Investors sometimes observe where resistance seems to be taking place to decide whether it's worth buying the stock at a lower price or selling near the resistance point.
+ 
+24. LTP -> Last Traded Price
+ 
+25. OTM -> One Time Mandate, lumpsum investment in mutual fund.
+ 
+26. NFO -> New Fund Offer
+ 
+27. Book value per share -> Book value per share is calculated by totaling the company’s assets, subtracting all debt, liabilities, and the liquidation price of preferred stock, then dividing the result by the number of outstanding shares of common stock.
+ 
+28 Face Value -> For stocks, the face value is the original cost of the stock, as listed on the certificate.
+ 
+Face value is the value of a company listed in its books of the company and share certificate. And finally, the book value of a company is the total value of the company's assets that shareholders will receive in case the company gets liquidated.
+ 
+ 
+29. COLLATERAL -> The term collateral refers to an asset that a lender accepts as security for a loan. Collateral may take the form of real estate or other kinds of assets, depending on the purpose of the loan. The collateral acts as a form of protection for the lender.
+ 
+30. Bullish Trend -> 'Bullish Trend' is an upward trend in the prices of an industry's stocks or the overall rise in broad market indices, characterized by high investor confidence. ... Description: A bullish trend for a certain period of time indicates recovery of an economy.
+ 
+31. BTST (Buy Today, Sell Tomorrow) is a facility that allows customers to sell shares before they are credited into a demat account or take the delivery of shares. The decision has to be made in 2 days. This facility is also known as ATST or Acquire Today, Sell Tomorrow.
+ 
+32. What is ASBA and how it works?
+ASBA abbreviated as Application Supported by Blocked Amount is an IPO application process developed by SEBI. It is an application containing an authorization to block the application money in the bank account, for subscribing to an IPO issue. You cannot use the blocked amount for any purpose.
+ 
+ 
+ 
+ 
+Read more on Groww: https://groww.in/blog/what-is-book-value-per-share-how-essential-is-it/
+ 
+List of mutual fund with nav
+https://www.amfiindia.com/net-asset-value
+ 
+Historical price:
+https://in.investing.com/equities
+ 
+ 
+ 
+AXIS BANK Comlain:
+https://www.complaintboard.in/complaints-reviews/axis-bank-l6326.html
+Branch ID:284
+IFSC:UTIB0000284
+Address:No 7B, Motijheel Avenue, Dum Dum, Kolkata, West Bengal, 700074
+Hours: Closed for the day
+Contact Number:18605005555
+Pincode:700074
+ 
+ 
+https://aliceblueonline.com/antiq/opportunity/shares-below-50-rupees/
+https://www.moneycontrol.com/stocks/marketstats/nse-mostactive-stocks/nifty-midcap-50-31/
+https://www.ndtv.com/business/marketdata/most-active-stocks-by-volume/midcap_daily
+ 
+ 
+https://housing.com/news/west-bengal-stamp-duty-and-registration-charges/
+https://www.99acres.com/
+ 
+ 
+How to Enable Online transactions on your HDFC Bank Credit Card
+ 
+How to disable Online transactions on your HDFC Bank Credit Card
+ 
+ 
+Nippon India Large Cap Fund - Growth INF204K01562
+ 
+Franklin India Smaller Companies Fund - Growth  INF090I01569
+ 
+Quant Small Cap Fund - INF966L01AA0
+ 
+Success as Parent fund is already Blocked
+ 
+SBI Long Term Equity Fund - Regular Plan - Growth
+
+
+
+
+Axis Small Cap Fund (Type : Small Cap)
+Axis Bluechip Fund (Type : Large Cap)
+SBI Small Cap Fund (Type : Small Cap)
+SBI Bluechip Fund (Type : Large Cap)
+ICICI prudential small cap fund (Type : Small Cap)
+ICICI prudential bluechip fund (Type : Large Cap)5
+Mirae Asset Large Cap Fund (Type : Large Cap)
+Nippon India Small Cap Fund - Growth
+Nippon India Large Cap Fund - Growth
+Franklin India Smaller Companies Fund - Growth
+Quant Small Cap Fund
+Bank of India Bluechip Fund
+Bank of India Small Cap Fund
+Edelweiss Large Cap Fund
+Edelweiss Small Cap Fund
+UTI Small Cap Fund
+Tata Small Cap Fund    
+Bandhan Large Cap Fund - Regular Plan - Growth
+Bandhan Small Cap Fund - Regular Plan - Growth
+
+Hdfc Small Cap Fund - Regular Plan - Growth -- (SIP)
+
+ETF : Exchange Traded Funds (ETFs) 
+
+Nippon India ETF Nifty 50 BeES
+Nippon India ETF Nifty PSU Bank BeES
+Nippon India ETF Gold BeES
+CPSE ETF
+SBI-ETF NIFTY 50
